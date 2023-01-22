@@ -1,14 +1,7 @@
 [comment]: <> (Author: @ngomezcn Date: 01-22-2023  )
 
----
-title: Kotlin Ktor
-description: A basic Kotlin Ktor web server
-tags:
-- ktor
-- kotlin
----
-
 # Kotlin Ktor Example
+#### Railway deployment template
 
 This example starts a basic Kotlin [Ktor](https://ktor.io/) web server.
 
@@ -17,7 +10,7 @@ This example starts a basic Kotlin [Ktor](https://ktor.io/) web server.
 ## ✨ Features
 
 - Kotlin 
-- Ktor (2.2.2)
+- Ktor 
 - Netty Engine
 - Gradle Kotlin
 
