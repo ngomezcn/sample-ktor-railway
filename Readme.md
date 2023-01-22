@@ -23,4 +23,4 @@ This example starts a basic Kotlin [Ktor](https://ktor.io/) web server.
 
 ## 💁‍♀️ Run in IntelliJ IDEA
 
-- Go to `Edit Settings...` -> `ApplicationKt` and paste `PORT=8080` in the environment variables field (If you don't see the ApplicationKt you must go to the Application.kt file and run the fun main from the green arrow, once done you will see ApplicationKt)
+- Go to `Edit Settings...` -> `ApplicationKt` and paste `PORT=8080` in the `Environment variables` field (If you don't see the ApplicationKt you must go to the Application.kt file and run the fun main from the green arrow, once done you will see ApplicationKt)
