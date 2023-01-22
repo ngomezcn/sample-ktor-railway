@@ -20,9 +20,14 @@ tasks {
     create("stage").dependsOn("installDist")
 }
 
-
 repositories {
     mavenCentral()
+}
+
+ktor {
+    fatJar {
+        archiveFileName.set("fat.jar")
+    }
 }
 
 dependencies {
