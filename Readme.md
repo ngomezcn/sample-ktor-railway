@@ -12,7 +12,7 @@ tags:
 
 This example starts a basic Kotlin [Ktor](https://ktor.io/) web server.
 
-[![Deploy on Railway](https://railway.app/button.svg)]()
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/7r5t2I?referralCode=WYVVxZ)
 
 ## ✨ Features
 
